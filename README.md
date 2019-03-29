@@ -1,5 +1,5 @@
 # Web Performance Budget
-Measure and maintain the Web Performance Budget from the start.
+Curated list of why, how and tools to implement Web Performance Budget. Included few cases studies. Feel free to contribute.
 
 ## Contents
 
@@ -20,6 +20,7 @@ Measure and maintain the Web Performance Budget from the start.
 - [Designing for Performance](http://designingforperformance.com/index.html#table-of-contents)- How performance is important for designers.
 - [Web Performance for Designers and developers](https://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/)- Front-end performance for web designers and front-end developers.
 - [Real-world Web Performance Budgets By Alex Russel](https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/)- Can You Afford It?: Real-world Web Performance Budgets.
+- [Performance Budget using Angular CLI](https://medium.com/dailyjs/how-did-angular-cli-budgets-save-my-day-and-how-they-can-save-yours-300d534aae7a)- Implementing Performance Budget in Angular projects.
 
 
 ## Websites
