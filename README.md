@@ -48,7 +48,7 @@ Curated list of why, how and tools to implement Web Performance Budget. Included
 ## Videos
 
 - [Concept of Performance Budget](https://www.youtube.com/watch?list=PLYo5nh8xQFpkwsu9QNlCpPGkmCCuTTWDJ&v=yqejmZrtmNg) - Performance Budget with Tim Kadlec.
-
+-- [Implementing Performance Budgets ](https://youtu.be/vVlpCmK1l5k) - how to implement performance budgets to avoid regression - Google Chrome Developers.
 
 ## Case Studies
 
