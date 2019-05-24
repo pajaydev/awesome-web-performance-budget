@@ -19,6 +19,7 @@ Curated list of why, how and tools to implement Web Performance Budget. Included
 - [Performance Budget](https://addyosmani.com/blog/performance-budgets/) - Performance Budget by Addyosmani.
 - [Designing for Performance](http://designingforperformance.com/index.html#table-of-contents)- How performance is important for designers.
 - [Web Performance for Designers and developers](https://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/)- Front-end performance for web designers and front-end developers.
+- [Inside Design - Setting a web performance budget](https://www.invisionapp.com/inside-design/setting-a-web-performance-budget/)- Setting a performance budget by Invision.
 - [Real-world Web Performance Budgets By Alex Russel](https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/)- Can You Afford It?: Real-world Web Performance Budgets.
 - [Performance Budget using Angular CLI](https://medium.com/dailyjs/how-did-angular-cli-budgets-save-my-day-and-how-they-can-save-yours-300d534aae7a)- Implementing Performance Budget in Angular projects.
 
@@ -35,7 +36,8 @@ Curated list of why, how and tools to implement Web Performance Budget. Included
 - [Using Webpack](https://webpack.js.org/configuration/performance/) - if you are using Webpack in your project, then you can prefer this.
 - [Grunt-perfbudget](https://github.com/tkadlec/grunt-perfbudget) - Grunt task for performance budgeting.
 - [Size-plugin](https://github.com/GoogleChromeLabs/size-plugin) - Grunt task for performance budgeting.
-- [PR Bot](https://github.com/GoogleChromeLabs/pr-bot) - Track compressed Webpack asset sizes over time..
+- [PR Bot](https://github.com/GoogleChromeLabs/pr-bot) - Track compressed Webpack asset sizes over time.
+- [rollup-plugin-size-snapshot](https://github.com/TrySound/rollup-plugin-size-snapshot) - This plugin provides details about actual, minified and gzipped bundle size.
 - [ImportCost - VS Extension](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) - Extension to display inline in the VS code editor the size of the imported package.
 
 ## BundleAnalyzer
@@ -60,3 +62,4 @@ Curated list of why, how and tools to implement Web Performance Budget. Included
 - [Treebo PWA Case Study](https://medium.com/dev-channel/treebo-a-react-and-preact-progressive-web-app-performance-case-study-5e4f450d5299/) - Treebo - React And Preact PWA Performance Case Study.
 - [Twitter Lite](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3/) - A Twitter Lite Web App at Scale.
 - [Netflix Performance Improvement by shipping less JS](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9) - A Netflix Web Performance Case Study.
+- [Telegraph - Creating a web performance culture](https://medium.com/the-telegraph-engineering/improving-third-party-web-performance-at-the-telegraph-a0a1000be5) - Improving third-party web performance at The Telegraph.
