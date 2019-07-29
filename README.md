@@ -1,56 +1,57 @@
-# Web Performance Budget
+# Web Performance Budget [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 Curated list of why, how and tools to implement Web Performance Budget. Included few cases studies. Feel free to contribute.
 
 ## Contents
 
-- [Why We need Performance Budget](#why?)
+- [Why We need Performance Budget](#why-we-need-performance-budget)
 - [Articles](#articles)
-- [Websites To measure Perf Budget](#websites)
-- [Tools To measure Perf Budget](#tools)
-- [Bundle Analyzers](#bundleanalyzer)
+- [Websites To measure Perf Budget](#websites-to-measure-perf-budget)
+- [Tools To measure Perf Budget](#tools-to-measure-perf-budget)
+- [Bundle Analyzers](#bundle-analyzers)
 - [Videos](#videos)
-- [Case Studies](#casestudies)
+- [Case Studies](#case-studies)
 
-## Why?
+## Why We need Performance Budget
 
 - [JavaScript Start-up Performance](https://medium.com/reloading/javascript-start-up-performance-69200f43b201) - Performance Budget by Addyosmani.
 
 ## Articles
 - [Performance Budget](https://addyosmani.com/blog/performance-budgets/) - Performance Budget by Addyosmani.
-- [Designing for Performance](http://designingforperformance.com/index.html#table-of-contents)- How performance is important for designers.
-- [Web Performance for Designers and developers](https://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/)- Front-end performance for web designers and front-end developers.
-- [Inside Design - Setting a web performance budget](https://www.invisionapp.com/inside-design/setting-a-web-performance-budget/)- Setting a performance budget by Invision.
-- [Real-world Web Performance Budgets By Alex Russel](https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/)- Can You Afford It?: Real-world Web Performance Budgets.
-- [Performance Budget using Angular CLI](https://medium.com/dailyjs/how-did-angular-cli-budgets-save-my-day-and-how-they-can-save-yours-300d534aae7a)- Implementing Performance Budget in Angular projects.
+- [Designing for Performance](http://designingforperformance.com/index.html#table-of-contents) - How performance is important for designers.
+- [Web Performance for Designers and developers](https://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/) - Front-end performance for web designers and front-end developers.
+- [Inside Design - Setting a web performance budget](https://www.invisionapp.com/inside-design/setting-a-web-performance-budget/) - Setting a performance budget by Invision.
+- [Real-world Web Performance Budgets By Alex Russel](https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/) - Can You Afford It?: Real-world Web Performance Budgets.
+- [Performance Budget using Angular CLI](https://medium.com/dailyjs/how-did-angular-cli-budgets-save-my-day-and-how-they-can-save-yours-300d534aae7a) - Implementing Performance Budget in Angular projects.
 
 
-## Websites
+## Websites To measure Perf Budget
 
 - [Performance Budget Calculator](http://www.performancebudget.io/) - Calculate A Performance Budget For Your Site.
-- [Web Page Test](https://www.webpagetest.org/easy) - Test your performance
+- [Web Page Test](https://www.webpagetest.org/easy) - Test your performance.
 - [Speed Curve](https://speedcurve.com) - Measuring web performance, get today's performance metrics.
 
-## Tools
+## Tools To measure Perf Budget
 
 - [Bundle Size](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check.
-- [Using Webpack](https://webpack.js.org/configuration/performance/) - if you are using Webpack in your project, then you can prefer this.
+- [Using Webpack](https://webpack.js.org/configuration/performance/) - If you are using Webpack in your project then you can prefer this.
 - [Grunt-perfbudget](https://github.com/tkadlec/grunt-perfbudget) - Grunt task for performance budgeting.
 - [Size-plugin](https://github.com/GoogleChromeLabs/size-plugin) - Grunt task for performance budgeting.
-- [PR Bot](https://github.com/GoogleChromeLabs/pr-bot) - Track compressed Webpack asset sizes over time.
-- [rollup-plugin-size-snapshot](https://github.com/TrySound/rollup-plugin-size-snapshot) - This plugin provides details about actual, minified and gzipped bundle size.
+- [Performance Budget Builder](https://github.com/GoogleChromeLabs/pr-bot) - Lay out your template types, set a size budget for each template type, then plug in the sizes for each asset category that will load in the template.
+- [Progressive Web Metrics](https://github.com/paulirish/pwmetrics) - Lay out your template types, set a size budget for each template type, then plug in the sizes for each asset category that will load in the template. 
+- [rollup-plugin-size-snapshot](https://github.com/TrySound/rollup-plugin-size-snapshot) - CLI tool and lib to gather performance metrics via Lighthouse.
 - [ImportCost - VS Extension](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) - Extension to display inline in the VS code editor the size of the imported package.
 
-## BundleAnalyzer
+## Bundle Analyzers
 
 - [Bundlephobia](https://bundlephobia.com/) - Find the cost of adding a npm package to your bundle.
 - [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap.
 - [Disc](http://hughsk.io/disc/) - Visualise the module tree of browserify project bundles and track down bloat. 
-- [lasso-analyzer](https://github.com/ajay2507/lasso-analyzer) - analyze and Visualise project bundles created by Lasso.
+- [lasso-analyzer](https://github.com/ajay2507/lasso-analyzer) - Analyze and Visualise project bundles created by Lasso.
 
 ## Videos
 
 - [Concept of Performance Budget](https://www.youtube.com/watch?list=PLYo5nh8xQFpkwsu9QNlCpPGkmCCuTTWDJ&v=yqejmZrtmNg) - Performance Budget with Tim Kadlec.
--- [Implementing Performance Budgets ](https://youtu.be/vVlpCmK1l5k) - how to implement performance budgets to avoid regression - Google Chrome Developers.
+- [Implementing Performance Budgets](https://youtu.be/vVlpCmK1l5k) - How to implement performance budgets to avoid regression - Google Chrome Developers.
 
 ## Case Studies
 
