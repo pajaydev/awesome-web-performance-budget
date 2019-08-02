@@ -19,6 +19,7 @@ Curated list of why, how and tools to implement Web Performance Budget. Included
 - [Performance Budget](https://addyosmani.com/blog/performance-budgets/) - Performance Budget by Addyosmani.
 - [Designing for Performance](http://designingforperformance.com/index.html#table-of-contents) - How performance is important for designers.
 - [Web Performance for Designers and developers](https://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/) - Front-end performance for web designers and front-end developers.
+- [Performance as design](http://bradfrost.com/blog/post/performance-as-design/) - Best practise to see performance as an essential design feature.
 - [Inside Design - Setting a web performance budget](https://www.invisionapp.com/inside-design/setting-a-web-performance-budget/) - Setting a performance budget by Invision.
 - [Real-world Web Performance Budgets By Alex Russel](https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/) - Can You Afford It?: Real-world Web Performance Budgets.
 - [Performance Budget using Angular CLI](https://medium.com/dailyjs/how-did-angular-cli-budgets-save-my-day-and-how-they-can-save-yours-300d534aae7a) - Implementing Performance Budget in Angular projects.
@@ -47,6 +48,7 @@ Curated list of why, how and tools to implement Web Performance Budget. Included
 - [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap.
 - [Disc](http://hughsk.io/disc/) - Visualise the module tree of browserify project bundles and track down bloat. 
 - [lasso-analyzer](https://github.com/ajay2507/lasso-analyzer) - Analyze and Visualise project bundles created by Lasso.
+- [rollup-plugin-analyzer](http://rollup-plugin-analyzer.doesdev.com/) - Metrics about your roll up bundle, sneak into your bundle using this tool.
 
 ## Videos
 

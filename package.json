@@ -1,6 +1,6 @@
 {
   "name": "awesome-web-perf-budget",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A curated list of awesome articles, videos and case studies about web performance budget.",
   "main": "index.js",
   "scripts": {
