@@ -5,8 +5,8 @@ Curated list of why, how and tools to implement Web Performance Budget. Included
 
 - [Why We need Performance Budget](#why-we-need-performance-budget)
 - [Articles](#articles)
-- [Websites To measure Perf Budget](#websites-to-measure-perf-budget)
-- [Tools To measure Perf Budget](#tools-to-measure-perf-budget)
+- [Websites To measure Performance Budget](#websites-to-measure-performance-budget)
+- [Tools To measure Performance Budget](#tools-to-measure-performance-budget)
 - [Bundle Analyzers](#bundle-analyzers)
 - [Videos](#videos)
 - [Case Studies](#case-studies)
@@ -23,15 +23,15 @@ Curated list of why, how and tools to implement Web Performance Budget. Included
 - [Inside Design - Setting a web performance budget](https://www.invisionapp.com/inside-design/setting-a-web-performance-budget/) - Setting a performance budget by Invision.
 - [Real-world Web Performance Budgets By Alex Russel](https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/) - Can You Afford It?: Real-world Web Performance Budgets.
 - [Performance Budget using Angular CLI](https://medium.com/dailyjs/how-did-angular-cli-budgets-save-my-day-and-how-they-can-save-yours-300d534aae7a) - Implementing Performance Budget in Angular projects.
+- [Incorporate performance budgets into your build process](https://web.dev/incorporate-performance-budgets-into-your-build-tools) - Set up performance budget into your build process.
 
-
-## Websites To measure Perf Budget
+## Websites To measure Performance Budget
 
 - [Performance Budget Calculator](http://www.performancebudget.io/) - Calculate A Performance Budget For Your Site.
 - [Web Page Test](https://www.webpagetest.org/easy) - Test your performance.
 - [Speed Curve](https://speedcurve.com) - Measuring web performance, get today's performance metrics.
 
-## Tools To measure Perf Budget
+## Tools To measure Performance Budget
 
 - [Bundle Size](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check.
 - [Using Webpack](https://webpack.js.org/configuration/performance/) - If you are using Webpack in your project then you can prefer this.
@@ -66,3 +66,7 @@ Curated list of why, how and tools to implement Web Performance Budget. Included
 - [Twitter Lite](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3/) - A Twitter Lite Web App at Scale.
 - [Netflix Performance Improvement by shipping less JS](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9) - A Netflix Web Performance Case Study.
 - [Telegraph - Creating a web performance culture](https://medium.com/the-telegraph-engineering/improving-third-party-web-performance-at-the-telegraph-a0a1000be5) - Improving third-party web performance at The Telegraph.
+
+
+## License
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
