@@ -1,4 +1,4 @@
-# Web Performance Budget [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Web Performance Budget [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 Curated list of why, how and tools to implement Web Performance Budget. Included few cases studies. Feel free to contribute.
 
 ## Contents
@@ -23,6 +23,7 @@ Curated list of why, how and tools to implement Web Performance Budget. Included
 - [Inside Design - Setting a web performance budget](https://www.invisionapp.com/inside-design/setting-a-web-performance-budget/) - Setting a performance budget by Invision.
 - [Real-world Web Performance Budgets By Alex Russel](https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/) - Can You Afford It?: Real-world Web Performance Budgets.
 - [Performance Budget using Angular CLI](https://medium.com/dailyjs/how-did-angular-cli-budgets-save-my-day-and-how-they-can-save-yours-300d534aae7a) - Implementing Performance Budget in Angular projects.
+- [Your first performance budget with Lighthouse](https://bitsofco.de/your-first-performance-budget-with-lighthouse/) - How to set up performance budget with Lighthouse.
 - [Incorporate performance budgets into your build process](https://web.dev/incorporate-performance-budgets-into-your-build-tools) - Set up performance budget into your build process.
 
 ## Websites To measure Performance Budget
