@@ -19,7 +19,6 @@
     "web-perf-budget"
   ],
   "author": "Ajaykumar Prathap",
-  "license": "ISC",
   "dependencies": {
     "awesome-lint": "^0.10.0"
   }
