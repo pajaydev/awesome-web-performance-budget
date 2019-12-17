@@ -1,5 +1,5 @@
 # Awesome Web Performance Budget [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-Curated list of why, how and tools to implement Web Performance Budget. Included few cases studies. Feel free to contribute.
+Curated list of resources & techniques to implement performance budget for a website.
 
 ## Contents
 
@@ -31,6 +31,7 @@ Curated list of why, how and tools to implement Web Performance Budget. Included
 - [Performance Budget Calculator](http://www.performancebudget.io/) - Calculate A Performance Budget For Your Site.
 - [Web Page Test](https://www.webpagetest.org/easy) - Test your performance.
 - [Speed Curve](https://speedcurve.com) - Measuring web performance, get today's performance metrics.
+- [Yellow Lab Tools](https://yellowlab.tools/) - Online test to help speeding up heavy web pages.
 
 ## Tools To measure Performance Budget
 
