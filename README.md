@@ -1,12 +1,12 @@
 # Awesome Web Performance Budget [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-Curated list of resources & techniques to implement performance budget for a website.
+Web Performance Budget is a group of limits to certain values that affect site performance that should not be exceeded in the design and development of any web project. By setting up the performance budget, we can focus more towards performance which can improve the speed and overall user experience of our websites. This list help us to provide link to various articles, projects, tools and techniques to maintain performance budget.
 
 ## Contents
 
 - [Why We need Performance Budget](#why-we-need-performance-budget)
 - [Articles](#articles)
-- [Websites To measure Performance Budget](#websites-to-measure-performance-budget)
-- [Tools To measure Performance Budget](#tools-to-measure-performance-budget)
+- [Tools to measure Performance Budget](#tools-to-measure-performance-budget)
+- [Build Tools to set up performance budget](#build-tools-to-set-up-performance-budget)
 - [Bundle Analyzers](#bundle-analyzers)
 - [Videos](#videos)
 - [Case Studies](#case-studies)
@@ -26,14 +26,15 @@ Curated list of resources & techniques to implement performance budget for a web
 - [Your first performance budget with Lighthouse](https://bitsofco.de/your-first-performance-budget-with-lighthouse/) - How to set up performance budget with Lighthouse.
 - [Incorporate performance budgets into your build process](https://web.dev/incorporate-performance-budgets-into-your-build-tools) - Set up performance budget into your build process.
 
-## Websites To measure Performance Budget
+## Tools to measure Performance Budget
 
 - [Performance Budget Calculator](http://www.performancebudget.io/) - Calculate A Performance Budget For Your Site.
 - [Web Page Test](https://www.webpagetest.org/easy) - Test your performance.
 - [Speed Curve](https://speedcurve.com) - Measuring web performance, get today's performance metrics.
 - [Yellow Lab Tools](https://yellowlab.tools/) - Online test to help speeding up heavy web pages.
+- [Sitespeed.io](https://www.sitespeed.io/) - Easy to monitor and measure the performance of your web site.
 
-## Tools To measure Performance Budget
+## Build Tools to set up performance budget
 
 - [Bundle Size](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check.
 - [Using Webpack](https://webpack.js.org/configuration/performance/) - If you are using Webpack in your project then you can prefer this.
