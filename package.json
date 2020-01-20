@@ -1,14 +1,7 @@
 {
-  "name": "awesome-web-perf-budget",
-  "version": "1.0.2",
-  "description": "A curated list of awesome articles, videos and case studies about web performance budget.",
-  "main": "index.js",
+  "name": "awesome-web-performance-budget",
   "scripts": {
     "test": "awesome-lint"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/pajaydev"
   },
   "keywords": [
     "awesome",
@@ -19,8 +12,7 @@
     "web-perf-budget"
   ],
   "author": "Ajaykumar Prathap",
-  "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "awesome-lint": "^0.10.0"
   }
 }

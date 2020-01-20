@@ -1,12 +1,12 @@
 # Awesome Web Performance Budget [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-Curated list of why, how and tools to implement Web Performance Budget. Included few cases studies. Feel free to contribute.
+> Web Performance Budget is a group of limits to certain values that affect site performance that should not be exceeded in the design and development of any web project. By setting up the performance budget, we can focus more towards performance which can improve the speed and overall user experience of our websites. This list help us to provide link to various articles, projects, tools and techniques to maintain performance budget.
 
 ## Contents
 
 - [Why We need Performance Budget](#why-we-need-performance-budget)
 - [Articles](#articles)
-- [Websites To measure Performance Budget](#websites-to-measure-performance-budget)
-- [Tools To measure Performance Budget](#tools-to-measure-performance-budget)
+- [Tools to measure Performance Budget](#tools-to-measure-performance-budget)
+- [Build Tools to set up performance budget](#build-tools-to-set-up-performance-budget)
 - [Bundle Analyzers](#bundle-analyzers)
 - [Videos](#videos)
 - [Case Studies](#case-studies)
@@ -17,22 +17,24 @@ Curated list of why, how and tools to implement Web Performance Budget. Included
 
 ## Articles
 - [Performance Budget](https://addyosmani.com/blog/performance-budgets/) - Performance Budget by Addyosmani.
+- [Your first performance budget](https://web.dev/your-first-performance-budget/) - Explained how to define your first performance budget in a few simple steps.
 - [Designing for Performance](http://designingforperformance.com/index.html#table-of-contents) - How performance is important for designers.
 - [Web Performance for Designers and developers](https://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/) - Front-end performance for web designers and front-end developers.
 - [Performance as design](http://bradfrost.com/blog/post/performance-as-design/) - Best practise to see performance as an essential design feature.
 - [Inside Design - Setting a web performance budget](https://www.invisionapp.com/inside-design/setting-a-web-performance-budget/) - Setting a performance budget by Invision.
 - [Real-world Web Performance Budgets By Alex Russel](https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/) - Can You Afford It?: Real-world Web Performance Budgets.
 - [Performance Budget using Angular CLI](https://medium.com/dailyjs/how-did-angular-cli-budgets-save-my-day-and-how-they-can-save-yours-300d534aae7a) - Implementing Performance Budget in Angular projects.
-- [Your first performance budget with Lighthouse](https://bitsofco.de/your-first-performance-budget-with-lighthouse/) - How to set up performance budget with Lighthouse.
 - [Incorporate performance budgets into your build process](https://web.dev/incorporate-performance-budgets-into-your-build-tools) - Set up performance budget into your build process.
 
-## Websites To measure Performance Budget
+## Tools to measure Performance Budget
 
 - [Performance Budget Calculator](http://www.performancebudget.io/) - Calculate A Performance Budget For Your Site.
 - [Web Page Test](https://www.webpagetest.org/easy) - Test your performance.
 - [Speed Curve](https://speedcurve.com) - Measuring web performance, get today's performance metrics.
+- [Yellow Lab Tools](https://yellowlab.tools/) - Online test to help speeding up heavy web pages.
+- [Sitespeed.io](https://www.sitespeed.io/) - Easy to monitor and measure the performance of your web site.
 
-## Tools To measure Performance Budget
+## Build Tools to set up performance budget
 
 - [Bundle Size](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check.
 - [Webpack Perf Budget](https://webpack.js.org/configuration/performance/) - If you are using Webpack in your project then you can prefer this.
@@ -69,6 +71,6 @@ Curated list of why, how and tools to implement Web Performance Budget. Included
 - [Netflix Performance Improvement by shipping less JS](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9) - A Netflix Web Performance Case Study.
 - [Telegraph - Creating a web performance culture](https://medium.com/the-telegraph-engineering/improving-third-party-web-performance-at-the-telegraph-a0a1000be5) - Improving third-party web performance at The Telegraph.
 
-
 ## License
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
