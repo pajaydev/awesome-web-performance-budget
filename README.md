@@ -35,7 +35,7 @@ Curated list of why, how and tools to implement Web Performance Budget. Included
 ## Tools To measure Performance Budget
 
 - [Bundle Size](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check.
-- [Using Webpack](https://webpack.js.org/configuration/performance/) - If you are using Webpack in your project then you can prefer this.
+- [Webpack Perf Budget](https://webpack.js.org/configuration/performance/) - If you are using Webpack in your project then you can prefer this.
 - [Grunt-perfbudget](https://github.com/tkadlec/grunt-perfbudget) - Grunt task for performance budgeting.
 - [Size-plugin](https://github.com/GoogleChromeLabs/size-plugin) - Grunt task for performance budgeting.
 - [Performance Budget Builder](https://github.com/GoogleChromeLabs/pr-bot) - Lay out your template types, set a size budget for each template type, then plug in the sizes for each asset category that will load in the template.
@@ -50,6 +50,7 @@ Curated list of why, how and tools to implement Web Performance Budget. Included
 - [Disc](http://hughsk.io/disc/) - Visualise the module tree of browserify project bundles and track down bloat. 
 - [lasso-analyzer](https://github.com/ajay2507/lasso-analyzer) - Analyze and Visualise project bundles created by Lasso.
 - [rollup-plugin-analyzer](http://rollup-plugin-analyzer.doesdev.com/) - Metrics about your roll up bundle, sneak into your bundle using this tool.
+- [CSS Analyzer](https://github.com/macbre/analyze-css) - CSS selectors complexity and performance analyzer.
 
 ## Videos
 
