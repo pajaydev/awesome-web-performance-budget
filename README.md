@@ -25,6 +25,7 @@
 - [Real-world Web Performance Budgets By Alex Russel](https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/) - Can You Afford It?: Real-world Web Performance Budgets.
 - [Performance Budget using Angular CLI](https://medium.com/dailyjs/how-did-angular-cli-budgets-save-my-day-and-how-they-can-save-yours-300d534aae7a) - Implementing Performance Budget in Angular projects.
 - [Incorporate performance budgets into your build process](https://web.dev/incorporate-performance-budgets-into-your-build-tools) - Set up performance budget into your build process.
+- [How to make Performance Budget](http://v3.danielmall.com/articles/how-to-make-a-performance-budget/) - Instructions for developing the performance budget.
 
 ## Tools to measure Performance Budget
 
