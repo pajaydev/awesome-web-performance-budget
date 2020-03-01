@@ -62,6 +62,7 @@
 
 - [Concept of Performance Budget](https://www.youtube.com/watch?list=PLYo5nh8xQFpkwsu9QNlCpPGkmCCuTTWDJ&v=yqejmZrtmNg) - Performance Budget with Tim Kadlec.
 - [Implementing Performance Budgets](https://youtu.be/vVlpCmK1l5k) - How to implement performance budgets to avoid regression - Google Chrome Developers.
+- [Design Decisions Through The Lens Of A Performance Budget](https://vimeo.com/108328247) - How we can make smarter design decisions, from the beginning of a project, to ensure that our sites perform well.
 
 ## Case Studies
 
