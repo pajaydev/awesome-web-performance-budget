@@ -1,6 +1,7 @@
 # Awesome Web Performance Budget [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > Web Performance Budget is a group of limits to certain values that affect site performance that should not be exceeded in the design and development of any web project. By setting up the performance budget, we can focus more towards performance which can improve the speed and overall user experience of our websites. This list help us to provide link to various articles, projects, tools and techniques to maintain performance budget.
 
+
 ## Contents
 
 - [Why We need Performance Budget](#why-we-need-performance-budget)
@@ -10,6 +11,7 @@
 - [Bundle Analyzers](#bundle-analyzers)
 - [Videos](#videos)
 - [Case Studies](#case-studies)
+- [Contribution](#contribution)
 
 ## Why We need Performance Budget
 
@@ -77,6 +79,9 @@
 - [Telegraph - Creating a web performance culture](https://medium.com/the-telegraph-engineering/improving-third-party-web-performance-at-the-telegraph-a0a1000be5) - Improving third-party web performance at The Telegraph.
 - [Uber Eats - Performance Improvements](https://eng.uber.com/uber-eats-com-web-app-rewrite/) - Counting Calories: How We Improved the Performance and Developer Experience of UberEats.com.
 - [Analyzing the Walmart site performance](https://iamakulov.com/notes/walmart/) - Improving the performance of Walmart's product page.
+
+## Contribution
+Feel free to add an awesome list. Kindly read the [contribution guidelines](CONTRIBUTING.md) and then [open a pull request](https://github.com/pajaydev/awesome-web-performance-budget/issues/new)! 
 
 ## License
 
