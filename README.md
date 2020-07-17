@@ -10,6 +10,7 @@
 - [Build Tools to set up performance budget](#build-tools-to-set-up-performance-budget)
 - [Bundle Analyzers](#bundle-analyzers)
 - [Videos](#videos)
+- [Podcasts](#podcasts)
 - [Case Studies](#case-studies)
 - [Contribution](#contribution)
 
@@ -59,6 +60,9 @@
 - [Rollup Visualizer](https://github.com/btd/rollup-plugin-visualizer) - Visualize and analyze your Rollup bundle to see which modules are taking up space.
 - [Parcel plugin Visualizer](https://github.com/gregtillbrook/parcel-plugin-bundle-visualiser) - A plugin for the parcel bundler to visualise bundle contents.
 - [CSS Analyzer](https://github.com/macbre/analyze-css) - CSS selectors complexity and performance analyzer.
+
+## Podcasts
+- [Chasing Waterfalls](https://chasingwaterfalls.io/) - Conversation with people to make web faster by [Tim kadlec](https://timkadlec.com/)
 
 ## Videos
 
