@@ -4,7 +4,6 @@
 
 ## Contents
 
-- [Why We need Performance Budget](#why-we-need-performance-budget)
 - [Articles](#articles)
 - [Tools to measure Performance Budget](#tools-to-measure-performance-budget)
 - [Build Tools to set up performance budget](#build-tools-to-set-up-performance-budget)
@@ -12,13 +11,11 @@
 - [Website Analyzers](#website-analyzers)
 - [Podcasts](#podcasts)
 - [Videos](#videos)
+- [Books](#books)
 - [Case Studies](#case-studies)
 
-## Why We need Performance Budget
-
-- [JavaScript Start-up Performance](https://medium.com/reloading/javascript-start-up-performance-69200f43b201) - Performance Budget by Addyosmani.
-
 ## Articles
+- [JavaScript Start-up Performance](https://medium.com/reloading/javascript-start-up-performance-69200f43b201) - Performance Budget by Addyosmani.
 - [Performance Budget](https://addyosmani.com/blog/performance-budgets/) - Performance Budget by Addyosmani.
 - [Your first performance budget](https://web.dev/your-first-performance-budget/) - Explained how to define your first performance budget in a few simple steps.
 - [Designing for Performance](http://designingforperformance.com/index.html#table-of-contents) - How performance is important for designers.
@@ -68,12 +65,18 @@
 
 ## Podcasts
 - [Chasing Waterfalls](https://chasingwaterfalls.io/) - Conversation with people to make web faster by [Tim kadlec](https://timkadlec.com/)
+- [Shoptalk Show](https://shoptalkshow.com/) - A podcast about building websites.
 
 ## Videos
 
 - [Concept of Performance Budget](https://www.youtube.com/watch?list=PLYo5nh8xQFpkwsu9QNlCpPGkmCCuTTWDJ&v=yqejmZrtmNg) - Performance Budget with Tim Kadlec.
 - [Implementing Performance Budgets](https://youtu.be/vVlpCmK1l5k) - How to implement performance budgets to avoid regression - Google Chrome Developers.
 - [Design Decisions Through The Lens Of A Performance Budget](https://vimeo.com/108328247) - How we can make smarter design decisions, from the beginning of a project, to ensure that our sites perform well.
+
+## Books
+
+- [Web Performance Warrior](https://www.oreilly.com/library/view/web-performance-warrior/9781492048114/)
+- [Designing for Performance](http://designingforperformance.com/)
 
 ## Case Studies
 
