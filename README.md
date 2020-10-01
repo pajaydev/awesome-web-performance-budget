@@ -1,4 +1,6 @@
-# Awesome Web Performance Budget [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Web Performance Budget 
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > Web Performance Budget is a group of limits to certain values that affect site performance that should not be exceeded in the design and development of any web project. By setting up the performance budget, we can focus more towards performance which can improve the speed and overall user experience of our websites. This list help us to provide link to various articles, projects, tools and techniques to maintain performance budget.
 
 
@@ -15,17 +17,18 @@
 - [Case Studies](#case-studies)
 
 ## Articles
-- [JavaScript Start-up Performance](https://medium.com/reloading/javascript-start-up-performance-69200f43b201) - Performance Budget by Addyosmani.
+
+- [JavaScript Start-up Performance](https://medium.com/reloading/javascript-start-up-performance-69200f43b201) - Performance     Budget by Addyosmani.
 - [Performance Budget](https://addyosmani.com/blog/performance-budgets/) - Performance Budget by Addyosmani.
-- [Your first performance budget](https://web.dev/your-first-performance-budget/) - Explained how to define your first performance budget in a few simple steps.
-- [Designing for Performance](http://designingforperformance.com/index.html#table-of-contents) - How performance is important for designers.
-- [Web Performance for Designers and developers](https://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/) - Front-end performance for web designers and front-end developers.
-- [Performance as design](http://bradfrost.com/blog/post/performance-as-design/) - Best practise to see performance as an essential design feature.
-- [Inside Design - Setting a web performance budget](https://www.invisionapp.com/inside-design/setting-a-web-performance-budget/) - Setting a performance budget by Invision.
-- [Real-world Web Performance Budgets By Alex Russel](https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/) - Can You Afford It?: Real-world Web Performance Budgets.
-- [Performance Budget using Angular CLI](https://medium.com/dailyjs/how-did-angular-cli-budgets-save-my-day-and-how-they-can-save-yours-300d534aae7a) - Implementing Performance Budget in Angular projects.
-- [Incorporate performance budgets into your build process](https://web.dev/incorporate-performance-budgets-into-your-build-tools) - Set up performance budget into your build process.
-- [How to make Performance Budget](http://v3.danielmall.com/articles/how-to-make-a-performance-budget/) - Instructions for developing the performance budget.
+- [Your first performance budget](https://web.dev/your-first-performance-budget/) - Explained how to define your first           performance budget in a few simple steps.
+- [Designing for Performance](http://designingforperformance.com/index.html#table-of-contents) - How performance is important   for designers.
+- [Web Performance for Designers and developers](https://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-   front-end-developers/) - Front-end performance for web designers and front-end developers.
+- [Performance as design](http://bradfrost.com/blog/post/performance-as-design/) - Best practise to see performance as an       essential design feature.
+- [Inside Design - Setting a web performance budget](https://www.invisionapp.com/inside-design/setting-a-web-performance-       budget/) - Setting a performance budget by Invision.
+- [Real-world Web Performance Budgets By Alex Russel](https://infrequently.org/2017/10/can-you-afford-it-real-world-web-         performance-budgets/) - Can You Afford It?: Real-world Web Performance Budgets.
+- [Performance Budget using Angular CLI](https://medium.com/dailyjs/how-did-angular-cli-budgets-save-my-day-and-how-they-can-   save-yours-300d534aae7a) - Implementing Performance Budget in Angular projects.
+- [Incorporate performance budgets into your build process](https://web.dev/incorporate-performance-budgets-into-your-build-     tools) - Set up performance budget into your build process.
+- [How to make Performance Budget](http://v3.danielmall.com/articles/how-to-make-a-performance-budget/) - Instructions for       developing the performance budget.
 
 ## Tools to measure Performance Budget
 
@@ -39,19 +42,19 @@
 ## Build Tools to set up performance budget
 
 - [Bundle Size](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check.
-- [Webpack Perf Budget](https://webpack.js.org/configuration/performance/) - If you are using Webpack in your project then you can prefer this.
+- [Webpack Perf Budget](https://webpack.js.org/configuration/performance/) - If you are using Webpack in your project then you   can prefer this.
 - [Grunt-perfbudget](https://github.com/tkadlec/grunt-perfbudget) - Grunt task for performance budgeting.
-- [Size Limit](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.
+- [Size Limit](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance.   Show error in pull request if the cost exceeds the limit.
 - [Size Plugin](https://github.com/GoogleChromeLabs/size-plugin) - Track compressed Webpack asset sizes over time.
-- [Performance Budget Builder](https://github.com/GoogleChromeLabs/pr-bot) - Lay out your template types, set a size budget for each template type, then plug in the sizes for each asset category that will load in the template.
-- [Progressive Web Metrics](https://github.com/paulirish/pwmetrics) - Lay out your template types, set a size budget for each template type, then plug in the sizes for each asset category that will load in the template. 
-- [rollup-plugin-size-snapshot](https://github.com/TrySound/rollup-plugin-size-snapshot) - CLI tool and lib to gather performance metrics via Lighthouse.
-- [ImportCost - VS Extension](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) - Extension to display inline in the VS code editor the size of the imported package.
+- [Performance Budget Builder](https://github.com/GoogleChromeLabs/pr-bot) - Lay out your template types, set a size budget     for each template type, then plug in the sizes for each asset category that will load in the template.
+- [Progressive Web Metrics](https://github.com/paulirish/pwmetrics) - Lay out your template types, set a size budget for each   template type, then plug in the sizes for each asset category that will load in the template. 
+- [rollup-plugin-size-snapshot](https://github.com/TrySound/rollup-plugin-size-snapshot) - CLI tool and lib to gather           performance metrics via Lighthouse.
+- [ImportCost - VS Extension](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) - Extension to         display inline in the VS code editor the size of the imported package.
 
 ## Bundle Analyzers
 
 - [Bundlephobia](https://bundlephobia.com/) - Find the cost of adding a npm package to your bundle.
-- [bundle-buddy](https://bundle-buddy.firebaseapp.com/) - A tool to help you find source code duplication across your JavaScript chunks/splits.
+- [bundle-buddy](https://bundle-buddy.firebaseapp.com/) - A tool to help you find source code duplication across your           JavaScript chunks/splits.
 - [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap.
 - [Disc](http://hughsk.io/disc/) - Visualise the module tree of browserify project bundles and track down bloat. 
 - [lasso-analyzer](https://github.com/ajay2507/lasso-analyzer) - Analyze and Visualise project bundles created by Lasso.
@@ -60,6 +63,7 @@
 - [CSS Analyzer](https://github.com/macbre/analyze-css) - CSS selectors complexity and performance analyzer.
 
 ## Website Analyzers
+
 - [Lighthouse Metrics](https://lighthouse-metrics.com/) - Lighthouse Metrics provides easy insights for your site's performance. Save your time by running tests from multiple locations to get the valuable insight you need.
 - [UITest.com Site Check](https://uitest.com/check/) - Test your website in more than 80 tools (web-based and free).
 
