@@ -43,6 +43,7 @@
 
 - [Bundle Size](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check.
 - [Webpack Perf Budget](https://webpack.js.org/configuration/performance/) - If you are using Webpack in your project then you can prefer this.
+- [Lighthouse](https://web.dev/use-lighthouse-for-performance-budgets/) - how to set up a performance budget using [lighthouse](https://developers.google.com/web/tools/lighthouse).
 - [Grunt-perfbudget](https://github.com/tkadlec/grunt-perfbudget) - Grunt task for performance budgeting.
 - [Size Limit](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.
 - [Size Plugin](https://github.com/GoogleChromeLabs/size-plugin) - Track compressed Webpack asset sizes over time.
