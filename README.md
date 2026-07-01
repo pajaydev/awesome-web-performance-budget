@@ -74,6 +74,7 @@
 - [Lighthouse Metrics](https://lighthouse-metrics.com/) - Lighthouse Metrics provides easy insights for your site's performance. Save your time by running tests from multiple locations to get the valuable insight you need.
 - [UITest.com Site Check](https://uitest.com/check/) - Test your website in more than 80 tools (web-based and free).
 - [PageGuard](https://pageguard.org) - Free website health scanner. Measures Core Web Vitals (LCP, FCP, CLS, TTFB), performance scores and provides AI-powered action plans. No signup required.
+- [Comparar Velocidad Web](https://landing-five-dusky-44.vercel.app/comparar-velocidad) - Free side-by-side website speed comparison tool. Enter two URLs to compare Core Web Vitals (LCP, CLS, FID) using real Google PageSpeed Insights data. No signup required.
 
 ## Blogs
 - [Web Performance Calender](https://calendar.perfplanet.com/2020/) - Speed geek's favorite time of the year.
