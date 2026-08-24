@@ -45,6 +45,7 @@
 
 - [Perfume.js](https://zizzamia.github.io/perfume/) - Tiny, web performance monitoring library that reports field data back to your favorite analytics tool.
 - [Falco](https://github.com/theodo/falco) - Helps you monitor, analyze, and optimize your websites.
+- [OhMyPerf](https://github.com/hoainho/ohmyperf) - Real-Chromium Core Web Vitals (LCP/INP/CLS/FCP/TBT/TTFB) measurement with a closed agent fix loop. CLI + MCP server + ESLint plugin. Per-metric Mann-Whitney U regression detection (α=0.05), `trustScore` decomposition into sample + effect confidence, and a `fixPlan` of ranked, applicability-aware patches. `npx -y @ohmyperf/cli@latest run <url>`.
 
 ## Build Tools to set up performance budget
 
