@@ -33,6 +33,7 @@
 
 ## Tools to measure Performance Budget
 
+- [WebCoreLab](https://webcorelab.com) — AI-powered Core Web Vitals + performance audit. 272 automated checks including CWV, LCP/CLS/FID/INP thresholds.
 - [Performance Budget Calculator](http://www.performancebudget.io/) - Calculate A Performance Budget For Your Site.
 - [Web Page Test](https://www.webpagetest.org/easy) - Test your performance.
 - [lightest app](https://www.lightest.app/) - Visualize web performance against competitors.
