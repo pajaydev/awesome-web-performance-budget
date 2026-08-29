@@ -72,6 +72,7 @@
 
 ## Website Analyzers
 - [Lighthouse Metrics](https://lighthouse-metrics.com/) - Lighthouse Metrics provides easy insights for your site's performance. Save your time by running tests from multiple locations to get the valuable insight you need.
+- [Nutilz](https://nutilz.com) - Free browser-based developer utilities including SVG optimizer, regex tester, JSON formatter, and calculators. No sign-up required.
 - [UITest.com Site Check](https://uitest.com/check/) - Test your website in more than 80 tools (web-based and free).
 - [PageGuard](https://pageguard.org) - Free website health scanner. Measures Core Web Vitals (LCP, FCP, CLS, TTFB), performance scores and provides AI-powered action plans. No signup required.
 - [Screpy](https://screpy.com/) - Tracks Core Web Vitals and page-speed changes across monitored pages.
