@@ -58,6 +58,7 @@
 - [Progressive Web Metrics](https://github.com/paulirish/pwmetrics) - Lay out your template types, set a size budget for each template type, then plug in the sizes for each asset category that will load in the template. 
 - [rollup-plugin-size-snapshot](https://github.com/TrySound/rollup-plugin-size-snapshot) - CLI tool and lib to gather performance metrics via Lighthouse.
 - [ImportCost - VS Extension](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) - Extension to display inline in the VS code editor the size of the imported package.
+- [squirrelscan](https://github.com/squirrelscan/squirrelscan) - CLI that audits a site against performance, SEO, security and accessibility rules. Its [GitHub Action](https://github.com/squirrelscan/audit-action) fails the build when a score drops below your budget, for example `score:perf<80`.
 
 ## Bundle Analyzers
 
