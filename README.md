@@ -45,6 +45,7 @@
 
 - [Perfume.js](https://zizzamia.github.io/perfume/) - Tiny, web performance monitoring library that reports field data back to your favorite analytics tool.
 - [Falco](https://github.com/theodo/falco) - Helps you monitor, analyze, and optimize your websites.
+- [find-oversized-images](https://batchset.com/tools/find-oversized-images) - CLI that loads a page at phone and desktop size and lists the images bigger than they are shown, with paste-ready srcset and sizes fixes. Can fail a CI build over a set count.
 
 ## Build Tools to set up performance budget
 
