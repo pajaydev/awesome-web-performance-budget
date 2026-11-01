@@ -75,6 +75,8 @@
 - [UITest.com Site Check](https://uitest.com/check/) - Test your website in more than 80 tools (web-based and free).
 - [PageGuard](https://pageguard.org) - Free website health scanner. Measures Core Web Vitals (LCP, FCP, CLS, TTFB), performance scores and provides AI-powered action plans. No signup required.
 - [Screpy](https://screpy.com/) - Tracks Core Web Vitals and page-speed changes across monitored pages.
+- [SEOCheck-AI](https://seocheck-ai.com/free-seo-check) - Instant zero-signup technical SEO and Core Web Vitals diagnostic scanner measuring TTFB, FCP, LCP, CLS, and AI search crawler accessibility.
+- [SEOAudit](https://seoaudit.com.ua/) - Full-site technical SEO audit platform for crawlability, performance budgets, and internal link structure analysis.
 
 ## Blogs
 - [Web Performance Calender](https://calendar.perfplanet.com/2020/) - Speed geek's favorite time of the year.
