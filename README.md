@@ -45,6 +45,7 @@ A **performance budget** is a set of limits on the things that affect how fast y
 - [Front-end Performance for Web Designers and Front-end Developers](https://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/) - Harry Roberts' primer on front-end performance fundamentals.
 - [How Angular CLI Budgets Saved My Day](https://medium.com/dailyjs/how-did-angular-cli-budgets-save-my-day-and-how-they-can-save-yours-300d534aae7a) - Implementing performance budgets in Angular projects.
 - [Impact of Page Weight on Load Time](https://paulcalvano.com/2018-07-02-impact-of-page-weight-on-load-time/) - Paul Calvano's HTTP Archive analysis of how page weight affects load time.
+- [Web Page Weight in 2026: 16 Numbers](https://sitepatent.com/blog/web-page-weight-statistics-2026) - Typical home page size, requests, images, JavaScript and fonts from the October 2026 HTTP Archive crawl, useful as a baseline when picking budget limits.
 
 ### Videos
 
